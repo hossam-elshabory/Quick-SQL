@@ -3,7 +3,7 @@
  <img width=300px height=300px src="LOGO.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Quick SQL For Data</h1>
+<h1 align="center">Quick SQL For Data Analysis</h1>
 
 <div align="center">
 
