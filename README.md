@@ -57,20 +57,20 @@ After installing **MySQL** on your machine, run these scripts to create the data
 
 ## 💠 SQL and RDBMS :
 
-- [What Is SQL]()
-- [What Are RDBMS]()
+- [What Is SQL](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/1.%20SQL%20and%20RDBMS/1.%20What%20Is%20SQL)
+- [What Are RDBMS](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/1.%20SQL%20and%20RDBMS/2.%20What%20Are%20RDBMS)
 
 
 ## 🟡 STARTING WITH THE BASICS
 ### 📌 Manipulating Data In SQL :
 
-- [SQL Basics]()
-- [Creating Databases and Tables]()
-- [The INSERT Operation]()
-- [The DELETE Operation]()
-- [The ALTER Operation]()
-- [The UPDATE Operation]()
-- [The DROP Operation]()
+- [SQL Basics](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/2.%20STARTING%20WITH%20THE%20BASICS/Manipulating%20Data%20In%20SQL/1.%20SQL%20Basics)
+- [Creating Databases and Tables](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/2.%20STARTING%20WITH%20THE%20BASICS/Manipulating%20Data%20In%20SQL/2.%20Creating%20Databases%20and%20Tables)
+- [The INSERT Operation](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/2.%20STARTING%20WITH%20THE%20BASICS/Manipulating%20Data%20In%20SQL/3.%20The%20INSERT%20Operation)
+- [The DELETE Operation](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/2.%20STARTING%20WITH%20THE%20BASICS/Manipulating%20Data%20In%20SQL/4.%20The%20DELETE%20Operation)
+- [The ALTER Operation](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/2.%20STARTING%20WITH%20THE%20BASICS/Manipulating%20Data%20In%20SQL/5.%20The%20ALTER%20Operation)
+- [The UPDATE Operation](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/2.%20STARTING%20WITH%20THE%20BASICS/Manipulating%20Data%20In%20SQL/6.%20The%20Update%20Operation)
+- [The DROP Operation](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/2.%20STARTING%20WITH%20THE%20BASICS/Manipulating%20Data%20In%20SQL/7.%20The%20DROP%20Operation)
 
 
 ### 📌 Querying Data In SQL :
