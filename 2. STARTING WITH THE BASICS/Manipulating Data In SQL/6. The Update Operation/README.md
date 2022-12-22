@@ -10,7 +10,7 @@ You would use the following SQL statement :
 ```SQL
 UPDATE employees
 SET
-	Email = 'Ava-May.Rodgers@awesomenes.com'
+    Email = 'Ava-May.Rodgers@awesomenes.com'
 WHERE empno = 3
 ```
 
@@ -42,9 +42,9 @@ If you want to update the new salary of the sales department employees, you can 
 
 ```SQL
 UPDATE Employee
-	SET 
-		Salary = 9600
-	WHERE department = 'Sales'
+    SET 
+       Salary = 9600
+    WHERE department = 'Sales'
 FROM Employee
 ```
 
@@ -62,8 +62,8 @@ To compute and add the discount we will do the following :
 
 ```SQL
 UPDATE products
-	SET
-		NetRetailPrice = NetRetailPrice * 0.90;
+    SET
+      NetRetailPrice = NetRetailPrice * 0.90;
 ```
 
 2. Check out the table `products` :
