@@ -99,4 +99,4 @@ After installing **MySQL** on your machine, run these scripts to create the data
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 + [The The SQL Workshop](https://www.packtpub.com/product/the-sql-workshop/9781838642358)
-+ [W3 School Join Tutorial](https://www.w3schools.com/mysql/mysql_join.asp
++ [W3 School Join Tutorial](https://www.w3schools.com/mysql/mysql_join.asp)
