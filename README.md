@@ -1,20 +1,20 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px height=300px src="LOGO.png" alt="Project logo"></a>
+ <img width=200px height=200px src="LOGO.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Quick SQL For Data Analysis</h1>
+<h1 align="center">QUICK SQL</h1>
 
 <div align="center">
 
-[![Telegram - Join Channel](https://img.shields.io/badge/Telegram-Join_Channel-blue?style=for-the-badge&logo=Telegram)](https://t.me/project_data_channel)
+[![Project Data - Join Channel](https://img.shields.io/badge/Project_Data-Join_Channel-blue?style=for-the-badge&logo=Telegram)](https://t.me/project_data_channel)
 [![LinkedIn - Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/hossam-elshabory/)
 
 </div>
 
 ---
 
-<p align="center"> This repository goes through what is SQL and how to quickly get started with it for Data Analysis.
+<p align="center"> This repository goes through what is SQL and how to quickly get started with it.
     <br> 
 </p>
 
@@ -31,7 +31,7 @@
 ## 🧐 About <a name = "about"></a>
 
 
-The purpose of this REPO is to create an Easy and Accessible SQL Wiki for people interested in learning SQL in the context of Data Analytics and Data Science.
+The purpose of this REPO is to create an Easy and Accessible SQL Wiki for people interested in learning SQL.
 
 ***
 
@@ -46,11 +46,11 @@ Examples used in these tutorials are from the `The SQL Workshop` Book, the book 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ### 🔽 Prerequisites 
-The SQL engine used throughout the examples is **MySQL**, you can follow this tutorial on how to download it [HERE](https://www.javatpoint.com/how-to-install-mysql#:~:text=Step%201%3A%20Go%20to%20the,community%20server%2C%20which%20you%20want.)
+The SQL engine used throughout the examples is **MySQL**, you can follow this tutorial on how to download it [HERE.](https://www.javatpoint.com/how-to-install-mysql#:~:text=Step%201%3A%20Go%20to%20the,community%20server%2C%20which%20you%20want.)
 
 
 ### 🧱 Setting up databases
-After installing **MySQL** on your machine, run these scripts to create the databases schemas used in the tutorials [HERE]()
+After installing **MySQL** on your machine, run these scripts to create the databases schemas used in the tutorials [HERE.](https://github.com/hossam-elshabory/Quick-SQL-For-Data/tree/main/Scripts)
 
 
 # 🔰 Tutorials 
@@ -99,3 +99,4 @@ After installing **MySQL** on your machine, run these scripts to create the data
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 + [The The SQL Workshop](https://www.packtpub.com/product/the-sql-workshop/9781838642358)
++ [W3 School Join Tutorial](https://www.w3schools.com/mysql/mysql_join.asp
