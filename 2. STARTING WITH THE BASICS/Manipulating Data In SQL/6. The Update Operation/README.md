@@ -9,8 +9,8 @@ You would use the following SQL statement :
 
 ```SQL
 UPDATE employees
-SET
-    Email = 'Ava-May.Rodgers@awesomenes.com'
+   SET
+      Email = 'Ava-May.Rodgers@awesomenes.com'
 WHERE empno = 3
 ```
 
