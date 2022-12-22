@@ -39,7 +39,7 @@ The purpose of this REPO is to create an Easy and Accessible SQL Wiki for people
      alt="The SQL Workshop" width="100" height="120">
 
 
-Examples used in these tutorials are from the `The SQL Workshop` Book, the book is great and highly recommend. You can get it on [Amazon](https://www.amazon.com/SQL-Workshop-Interactive-Approach-Learning/dp/1838642358), or by joining our [Telegram Channel]().
+Examples used in these tutorials are from the `The SQL Workshop` Book, the book is great and highly recommend. You can get it on [Amazon](https://www.amazon.com/SQL-Workshop-Interactive-Approach-Learning/dp/1838642358), or by joining our [Telegram Channel](https://t.me/project_data_channel).
 
 
 
