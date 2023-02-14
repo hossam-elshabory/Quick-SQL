@@ -12,13 +12,6 @@ A table is a collection of related data entries and values and it consists of co
 
 ![Alt text](Images/SING_TABLE_SKELEYON.png)
 
-# Why store data in RD ?
-
-To answer this question lets compare relational databases RD to a more traditionally way to store data, which is Flat files. 
-
-Flat files are simply just one long file (Mostly a .CSV file) that contains all the data (Columns and rows) in one table.
-
-
 # SQL Queries
 
 A SQL query statement is used to query or to ask a question to the database by making use of the SQL syntax.
