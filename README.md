@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Project Data - Join Channel](https://img.shields.io/badge/Project_Data-Join_Channel-blue?style=for-the-badge&logo=Telegram)](https://t.me/project_data_channel)
+[![Project Data - Join Channel](https://img.shields.io/badge/Project_Data-Join_Channel-blue?style=for-the-badge&logo=Telegram)](https://t.me/projdata)
 [![LinkedIn - Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/hossam-elshabory/)
 
 </div>
